@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://reference-r52dy5.introduse.me/sitemap.xml
